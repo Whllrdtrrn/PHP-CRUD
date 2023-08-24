@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    background-image: linear-gradient(black, white);
+    height: 100vh;
+    overflow: hidden;
+}
+.main{
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1000px;
+    overflow: hidden;
+}
+.card-header{
+    justify-content: space-between;
+    display: flex;
+}
+table tbody{
+}
+table thead{
+    white-space: nowrap;
+}
+h1 {
+    font-family: 'Oswald', sans-serif !important;
+}
