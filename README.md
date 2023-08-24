@@ -1,2 +1,5 @@
 ![php-crud](https://github.com/Whllrdtrrn/PHP-CRUD/assets/56507691/c50cb99a-0d6c-4518-ab38-3181f47039d6)
 ![php-crud-mobile](https://github.com/Whllrdtrrn/PHP-CRUD/assets/56507691/169b487e-0302-47c7-8c36-459278f1e4d8)
+![crud-add](https://github.com/Whllrdtrrn/PHP-CRUD/assets/56507691/abfb6a56-d9f7-4c1e-ae3d-db39ff69733b)
+![edit-crud](https://github.com/Whllrdtrrn/PHP-CRUD/assets/56507691/a30eaeec-eb9a-417a-98cf-6bae31da3231)
+![delete-crud](https://github.com/Whllrdtrrn/PHP-CRUD/assets/56507691/849c4e36-6e09-47d0-9d97-2b1348874e90)
